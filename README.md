@@ -98,7 +98,7 @@ The model was evaluated on a held-out test set containing equal numbers of Cover
 ### Setup
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/deepanshu160105/stego-srnet.git](https://github.com/yourusername/stego-srnet.git)
+    git clone [[https://github.com/deepanshu160105/stego-srnet.git](https://github.com/yourusername/stego-srnet.git](https://github.com/deepanshu160105/Steganograph_DL_deep.git))
     cd stego-srnet
     ```
 
@@ -148,9 +148,8 @@ Contributions are welcome, especially those that address the current resolution 
 
 ## 👤 Author
 
-**[Adarsh Dubey]**
+**[Deepanshu Chauhan]**
 
-* **Mail:** [adarshiiitkota@gmail.com]
-* **LinkedIn:** [https://www.linkedin.com/in/adarsh-dubey-313b1a227/]
+* **Mail:** [deepanshueng16@gmail.com]
 
 ---
