@@ -77,28 +77,6 @@ The model was evaluated on a held-out test set containing equal numbers of Cover
 | **Accuracy** | **93.90%** |
 
 *Technique used: Spatial Domain LSB Detection*
-
----
-
-## 🛠️ Installation
-
-### Prerequisites
-* Python 3.8+
-* TensorFlow 2.x
-* Numpy, Pandas, OpenCV/Pillow
-
-### Setup
-1.  **Clone the repo**
-    ```bash
-   git clone https://github.com/deepanshu160105/Steganograph_DL_deep.git
-   cd Steganograph_DL_deep
-    ```
-
-2.  **Install dependencies**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
 ---
 ## 💻 Usage & Workflow
 
