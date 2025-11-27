@@ -98,7 +98,7 @@ The model was evaluated on a held-out test set containing equal numbers of Cover
 ### Setup
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/yourusername/stego-srnet.git](https://github.com/yourusername/stego-srnet.git)
+    git clone [https://github.com/deepanshu160105/stego-srnet.git](https://github.com/yourusername/stego-srnet.git)
     cd stego-srnet
     ```
 
