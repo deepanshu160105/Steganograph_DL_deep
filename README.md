@@ -90,8 +90,8 @@ The model was evaluated on a held-out test set containing equal numbers of Cover
 ### Setup
 1.  **Clone the repo**
     ```bash
-    git clone [[https://github.com/deepanshu160105/stego-srnet.git](https://github.com/yourusername/stego-srnet.git](https://github.com/deepanshu160105/Steganograph_DL_deep.git))
-    cd stego-srnet
+   git clone https://github.com/deepanshu160105/Steganograph_DL_deep.git
+   cd Steganograph_DL_deep
     ```
 
 2.  **Install dependencies**
