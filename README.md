@@ -29,14 +29,6 @@ While standard CNNs focus on image content (objects, colors), this model is desi
 
 ---
 
-## 🔗 Model Download
-
-The trained model weights (`.h5` / `.keras`) are hosted on Kaggle. You can download them to run inference locally.
-
-[![Kaggle](https://img.shields.io/badge/Kaggle-Download_Model_Weights-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/models/adarshdubey1127/steganomodel)
-
----
-
 ## ⚠️ Limitations
 
 Please be aware of the following constraints regarding this specific implementation:
